@@ -1,0 +1,7 @@
+{
+  "port": "9992",
+  "processes": {
+    "firefox": { "proc": "firefox.exe", "ret": "cnt" },
+    "code": { "proc": "Code", "ret": "on" }
+  }
+}
